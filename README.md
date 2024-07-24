@@ -56,8 +56,13 @@ Acceptance Rate Distribution: High competition for admission.
 
 
 **How to Run**
+
 Clone the repository.
+
 Ensure you have the required libraries: pickle, pandas, numpy, seaborn, matplotlib.
+
 Load the data from the provided SchoolApplicationpkl50103.dat file.
+
 Run the analysis script to generate the visualizations.
+
 Review the insights derived from the visualizations.
