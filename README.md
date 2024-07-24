@@ -1,8 +1,11 @@
 # College-Application-Analysis
 This is a data analysis and visualisation project developed with the help of python
 School Applications Analysis
+
+
 **Overview**
 This project involves analyzing data about school applications from an aggregator website. The dataset comprises 10,000 entries with 8 columns: uniqueId, date, name, school, type, rating, tuition_fee, and acceptance_rate. The analysis includes data cleaning, handling missing values, and visualizing various aspects of the dataset to derive insights.
+
 
 **Data Description**
 uniqueId: Unique identifier for each application.
@@ -42,6 +45,7 @@ Insight: All majors have a similar number of applicants. LAW102 has the highest 
 Applicants Across Majors and Their Range of Acceptance Rates
 
 Insight: Most applicants (60%) have acceptance rates between 90-100%. Only 1% have acceptance rates below 70%.
+
 **Conclusion**
 Tuition Fees: Not a major difference between schools.
 Ratings: Generally high satisfaction across all majors.
