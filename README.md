@@ -53,7 +53,9 @@ Acceptance Rates: Seasonal fluctuations suggest factors like application volume 
 Tuition-Acceptance Relationship: Inverse relationship observed.
 Applicant Distribution: Similar distribution among majors and schools.
 Acceptance Rate Distribution: High competition for admission.
-How to Run
+
+
+**How to Run**
 Clone the repository.
 Ensure you have the required libraries: pickle, pandas, numpy, seaborn, matplotlib.
 Load the data from the provided SchoolApplicationpkl50103.dat file.
